@@ -1,4 +1,4 @@
-![[Laolink Logo](https://i.postimg.cc/xyz123/logo-laolink.png)](https://postimg.cc/ZvcyQk5v)
+[![Screenshot-20250520-194907-removebg-preview.png](https://i.postimg.cc/K4XrRxXf/Screenshot-20250520-194907-removebg-preview.png)](https://postimg.cc/ZvcyQk5v)
 
 # LaoLink
 
